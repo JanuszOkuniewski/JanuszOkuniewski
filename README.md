@@ -1,0 +1,13 @@
+- 👋 Hi, I’m Janusz Okuniewski. This is my CV
+- 
+- My name is Janusz. I am from Polad. I am 22 years old. He is my the secend year of study computer sience.
+- 
+- i did this project only for passing, it allows you to create nice and simple GitHub Readme files that you can copy or paste and use in your profile.
+- 
+
+- 👀 I’m interested in programist and sport
+- 🌱 I’m currently learning programing Java and Github
+- 💞️ I’m looking to collaborate on a large corporation that deals with programming
+- 📫 How to reach me 795 122 776
+- My skills :
+- Java / HTML / SQL server / C# / C++
